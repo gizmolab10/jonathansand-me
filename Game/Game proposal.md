@@ -1,0 +1,2 @@
+One of the biggest hurdles over which humanity must jump concerns education regarding thinking, collaborating and trying out ideas together. I want to draw attention to logic, discussion, personal values and empathy. I feel such efforts must be fun along with the challenging work and practice. To me this suggests a game in which players earn rewards for meeting those challenges and have fund doing so.
+
