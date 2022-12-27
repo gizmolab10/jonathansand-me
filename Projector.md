@@ -1,0 +1,1 @@
+I am a projector and an essentialist. I'm exploring what this means.
