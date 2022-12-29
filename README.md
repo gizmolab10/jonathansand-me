@@ -1,6 +1,6 @@
 # What's my life really about?
 
-On many nights as a sophomore high school student, I would walk with a friend of mine, maybe a hundred blocks. We talked, really welcome and deep stuff. It was obvious to us then, that we children were being conditioned to a certain kind of life; and we didn't like that, it wasn't something we had consented to. We vowed to resist it.
+During high school, I would walk at night with a friend of mine, maybe a hundred blocks each time. We talked, really welcome and deep stuff. It was obvious to us then, that we children were being conditioned to a certain kind of life; and we didn't like that, it wasn't something we had consented to. We vowed to resist it.
 
 A few years later, adult life struck. Those molding forces got stronger and came from everywhere, as I tried to fit in, earn my living, get my shit together. After a few more years, I forgot about that oath and applied myself to being normal. Buy a house, get insurance, explore all the available consumer goods, vote, read and stay in touch. Life grew complex because I let it, not realizing I had a choice about that.
 
