@@ -1,5 +1,5 @@
 
-![[Images/image-20150605-8677-1ykfc31.jpeg]]
+
 
 # What's my life really about?
 
