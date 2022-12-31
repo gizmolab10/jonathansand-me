@@ -1,3 +1,6 @@
+
+![[Images/image-20150605-8677-1ykfc31.jpeg]]
+
 # What's my life really about?
 
 During high school, a friend of mine and I would walk and talk about really welcome and deep stuff, meandering for maybe a hundred blocks through many quiet neighborhoods. It was obvious to us then, that we children were being conditioned to a certain kind of life; and we didn't like that, it wasn't something we had consented to. We vowed to resist it.
