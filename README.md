@@ -1,5 +1,4 @@
-
-
+![[1_VTS6m-dExHLPA65dD2CVhw.jpeg]]
 
 # What's my life really about?
 
