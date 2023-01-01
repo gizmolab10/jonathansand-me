@@ -1,5 +1,5 @@
 .markdown-body img { 
-    max-width: 90%;
+    max-width: 300em;
     max-height: 300em;
     box-sizing: content-box;
     background-color: #fff;
@@ -33,4 +33,4 @@
  	"Apple Color Emoji",
 	"Segoe UI Emoji",
 	"Segoe UI Symbol"; }
-body { color: #000; }
+body { color: rgba(10, 10, 10, 0.2); }
