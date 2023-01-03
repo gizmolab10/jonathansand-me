@@ -1,5 +1,5 @@
 [[README|My Journal]]  
-[[Game proposal]]  
+[[Writing Project Proposals]]  
 [[Muscilage]]  
 [[Projector]]  
 [[Techno Curmudgeon]]  
