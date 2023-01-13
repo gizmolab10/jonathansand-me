@@ -14,7 +14,7 @@ In what current community (or group) does this issue arise?
 What happens if we don't put effort into addressing this need? What or who is in pain? Describe the pain. 
 
 ## Solution
-Show how how it will address the need and bring socio-economic benefit to the community. 
+Show how it will address the need and bring socio-economic benefit to the community. 
 
 ## Measurable Goal
 Describe the project endpoint in sufficient detail and the measurements used to confirm it is done.
