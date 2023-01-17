@@ -1,5 +1,9 @@
-[[README|My Journal]]  
-[[Writing Project Proposals]]  
-[[Proposal]]  
-[[Projector]]  
 [[Techno Curmudgeon]]  
+[[Proposal|Corruption Proposal]]  
+
+### personal
+[[README|My Journal]]  
+[[Projector]]  
+
+### public
+[[Writing Project Proposals]]  
