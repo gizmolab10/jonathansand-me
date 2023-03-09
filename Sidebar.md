@@ -3,6 +3,7 @@
 
 ### personal
 [[README|My Journal]]  
+[[Wicked Problems]]  
 [[Projector]]  
 
 ### public
