@@ -13,8 +13,3 @@ As I pared my life down, the effects of being conditioned became apparent to me.
 Now I am asking myself some deep questions. Does work have to be dull and hostile? Can we make it fun? Surely we ought to take advantage of the abundant fruits of civilization, right? Is optimism practical? Is trust of each other damned important? Is it possible? How do we do it? Who can I play with and ask?
 
 Lately, I feel a clear headed passion for my species, it's happiness and survival. I've resolved to make something meaningful of the rest of my life in aid of us all. I am convinced we blundered into a gawdawful mess and are intelligent enough to wrench ourselves free.
-
-[[Sculpture]]  
-[[Civilization 2.0]]  
-[[Game Proposal from Bill and Jonathan]]  
-[[Projector]]  
