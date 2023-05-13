@@ -4,9 +4,9 @@
 ### personal
 [[README|Home]]  
 [[My Life|Journal]]  
+[[Projector]]  
 [[Sculpture]]  
 [[Wicked Problems]]  
-[[Projector]]  
 
 ### public
 [[Writing Project Proposals|Project Proposals]]  
