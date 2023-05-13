@@ -2,7 +2,9 @@
 [[Concept|Corruption Concept]]  
 
 ### personal
-[[README|My Journal]]  
+[[README|Home]]  
+[[My Life|Journal]]  
+[[Sculpture]]  
 [[Wicked Problems]]  
 [[Projector]]  
 
