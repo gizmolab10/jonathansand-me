@@ -14,6 +14,10 @@ Let's take techical support as an example. When a device misbehaves, I look at i
 
 So here's my take on it. The cost of excellent technology is higher than almost every budget assigned to it. Several shortcuts are taken. A portion of a product may be farmed out to a subcontractor or is bought of the shelf from another company with an expertise in that area. Whichever option is taken, that portion must be integrated, explained, documented and ultimately taught to technical support agents. Each of these steps is expensive and thus subject to cost cutting for the sake of increasing profit margin and shareholder earning. The effect of this on the customer is eventual product failure followed by hours of troubleshooting that sometimes fails to resolve the issue.
 
+## tasks
+
+So, here's a typical situation I find distressing. Every day brings at least a trickle of items that need attention and action. Okay, so I open a letter and calmly read it. If I don't make contact rather soon, some service I like may be altered or removed. No phone number given. I visit the website they mention, and struggle to log in and struggle to navigate. Ahah, I find a number and I call it. I am on hold for just shy of two hours when a friend calls me and I let them through, ending the hold. Back on the site, I found a waiting list, where I added my phone number. They have not called in the 30 hours since.
+
 ## profit
 
 Companies need working capital which quite often comes from investors. Investors do this for profit. To make this work, products are optimized for profit margin. It's that or go out of business.
