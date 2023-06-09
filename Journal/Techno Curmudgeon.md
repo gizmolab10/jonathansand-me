@@ -1,7 +1,7 @@
 # Techno Curmudgeon
 
 ![[image-20150605-8677-1ykfc31.jpeg]]  
-### The giant particle camera at CERN
+## The giant particle camera at CERN
 
 I've been fascinated and involved in technology my entire adult life. In high school, I had this record player that could play as many as six records (stacked up and dropped one at a time), at either 45 or 78 RPM. I would take that thing completely apart and reassemble it and test that indeed it worked afterwards. The purpose and placement of each piece was obvious to me. I did this over and over, like a 3D puzzle.
 
