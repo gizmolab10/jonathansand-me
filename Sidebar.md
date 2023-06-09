@@ -5,7 +5,7 @@
 [[README|Home]]  
 [[My Life|Journal]]  
 [[Projector]]  
-[[Sculpture]]  
+[[obloidal]]  
 [[Wicked Problems]]  
 
 ### public

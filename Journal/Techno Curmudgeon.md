@@ -1,6 +1,7 @@
 # Techno Curmudgeon
 
 ![[image-20150605-8677-1ykfc31.jpeg]]  
+The giant particle camera at CERN
 
 I've been fascinated and involved in technology my entire adult life. In high school, I had this record player that could play as many as six records (stacked up and dropped one at a time), at either 45 or 78 RPM. I would take that thing completely apart and reassemble it and test that indeed it worked afterwards. The purpose and placement of each piece was obvious to me. I did this over and over, like a 3D puzzle.
 
@@ -14,7 +15,7 @@ Let's take techical support as an example. When a device misbehaves, I look at i
 
 So here's my take on it. The cost of excellent technology is higher than almost every budget assigned to it. Several shortcuts are taken. A portion of a product may be farmed out to a subcontractor or is bought of the shelf from another company with an expertise in that area. Whichever option is taken, that portion must be integrated, explained, documented and ultimately taught to technical support agents. Each of these steps is expensive and thus subject to cost cutting for the sake of increasing profit margin and shareholder earning. The effect of this on the customer is eventual product failure followed by hours of troubleshooting that sometimes fails to resolve the issue.
 
-## tasks
+## tasks (June 5, 2023)
 
 So, here's a typical situation I find distressing. Every day brings at least a trickle of new tasks needing attention and action. As an example, today I open a letter and calmly read it. It told me that if I don't make contact rather soon, some service I like may be altered or removed. No phone number given. I mutter "unbelievable," and try visiting the website they mention, and struggle (with more muttering) to log in and struggle to navigate. Ahah, I find a number and I call it. Okay, so get this: I am on hold for just shy of two hours while multitasking. I gave up and ended the call when a friend calls me and I let them through. Later, back on the site, I found a waiting list, where I added my phone number to have them call me back. They have not called in the 30 hours since. This is how my task list often contains tasks which will take significant time to accomplish nothing. I figure this is due to services that have not scaled well to match current demands. My guess is that petty competition from other initiatives starve budgets. I also suppose that the skills and knowledge needed to create a wonderful experience is not universally shared and is slowly and expensively recreated in each separate initiative. This and ill-adapted rigid processes long past their use-by date that are too expensive to update and retrain teams. These are massive global inefficiencies, impacting enterprises and individuals to who knows what overall cost of time.
 
