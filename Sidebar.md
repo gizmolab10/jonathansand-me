@@ -1,11 +1,10 @@
 [[Techno Curmudgeon]]  
-[[Concept|Corruption Concept]]  
 
 ### personal
 [[README|Home]]  
 [[My Life|Journal]]  
-[[Projector]]  
-[[obloidal]]  
+[[Projector]]
+[[Sculpture]]  
 [[Wicked Problems]]  
 
 ### public
