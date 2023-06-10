@@ -10,13 +10,11 @@ Copious details, continuously morphing into each other. Looking closely at those
 
 ![[year.3.jpg]]
 
-![[year.4.jpg]]
+![[year.7.jpg]]
 
 ![[year.5.jpg]]
 
 ![[year.6.jpg]]
-
-![[year.7.jpg]]
 
 ![[year.8.jpg]]
 
