@@ -3,7 +3,6 @@
 ### personal
 [[README|Home]]  
 [[My Life|Journal]]  
-[[Projector]]
 [[Sculpture]]  
 [[Wicked Problems]]  
 
