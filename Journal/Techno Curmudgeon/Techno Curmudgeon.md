@@ -11,6 +11,6 @@ I also feel confident enough about design to critique what's around me, from app
 
 [[Technical Support]]  
 [[Profit]]  
-[[Everyday Task List]]  
+[[Everyday Task Lists]]  
 [[Opening an account]]  
 [[Group Mind]]  
