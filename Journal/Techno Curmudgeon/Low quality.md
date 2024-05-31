@@ -1,3 +1,5 @@
+# Low quality
+
 I don't know about you but I find myself encountering gotchas a lot.
 
 The lid on a jar is too tight and needs a tool, the first one may not quite work and six tools later, you finally are satisfied, but it's a bit awkward to use. Or logging onto a site involves nineteen steps, and some of them are on a separate device.
