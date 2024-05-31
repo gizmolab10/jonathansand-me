@@ -1,10 +1,10 @@
 # Low quality
 
-I don't know about you but I find myself encountering gotchas a lot.
+I don't know about you but I find myself encountering gotchas a lot. I think I know why and the explanation doesn't help, sorry.
 
 The lid on a jar is too tight and needs a tool, the first one may not quite work and six tools later, you finally are satisfied, but it's a bit awkward to use. Or logging onto a site involves nineteen steps, and some of them are on a separate device.
 
-I think I know why and the explanation doesn't help, sorry. As we introduce new cool things, we try to anticipate how they will be used and adapt our design and production for that. Users are trouble. We have lots of differences. Our lives are unstable. Encountering a new cool thing means learning how to use it. Always.
+As we introduce new cool things, we try to anticipate how they will be used and adapt our design and production for that. Users are trouble. We have lots of differences. Our lives are unstable. Encountering a new cool thing means learning how to use it. Always.
 
 So, the design team builds a plan and commits resources. Engineers, artists, technicians, marketers and such like. Each resource has its abilities. All abilities have limits. In the end, the new cool thing is created and deployed according to the best possible use of those resources.
 
