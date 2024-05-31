@@ -14,3 +14,4 @@ I also feel confident enough about design to critique what's around me, from app
 [[Everyday Task Lists]]  
 [[Opening an account]]  
 [[Group Mind]]  
+[[Low quality]]  
