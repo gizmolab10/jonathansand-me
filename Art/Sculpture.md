@@ -2,6 +2,6 @@ I feel better when I am working on a sculpture. Curious to see what it will look
 
 I am not really saying anything with art. That's the reason I do it. Each is a journey from some random gloppy shape of wet clay, along a path that feeds my curiosity, to an assortment of small regions surrounding an approximation of that original gloppy shape. Textures, technique, tools, type of clay, always changing.
 
-[[one year]]  
+[[export/one year/index.html|year]]  
 [[mouth]]  
 [[boros]]  
