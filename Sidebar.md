@@ -1,7 +1,7 @@
 ### personal
 [[My Life|Journal]]  
-[[export/nature/index.html|Garden]]  
-[[export/sculpture/index.html|Sculpture]]  
+[[/export/nature/index.html|Garden]]  
+[[/export/sculpture/index.html|Sculpture]]  
 [[Wicked Problems]]  
 [[Javascript ideas]]  
 [[Techno Curmudgeon]]  
