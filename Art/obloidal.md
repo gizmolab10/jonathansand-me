@@ -1,3 +1,3 @@
-![[smooth.one.jpeg]]  
+![[Images/art/smooth/smooth.one.jpeg]]  
 
-![[smooth.two.jpeg]]  
+![[Images/art/smooth/smooth.two.jpeg]]  

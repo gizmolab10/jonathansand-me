@@ -1,1 +1,1 @@
-![[boros.a.jpeg]]
+![[Images/art/boros.a.jpeg]]

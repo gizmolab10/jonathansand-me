@@ -1,12 +1,10 @@
-[[Techno Curmudgeon]]  
-
 ### personal
-[[README|Home]]  
 [[My Life|Journal]]  
-[[export/nursery/index.html|Garden]]  
-[[Sculpture]]  
+[[export/nature/index.html|Garden]]  
+[[export/sculpture/index.html|Sculpture]]  
 [[Wicked Problems]]  
 [[Javascript ideas]]  
+[[Techno Curmudgeon]]  
 
 ### public
 [[Writing Project Proposals|Project Proposals]]  
