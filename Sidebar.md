@@ -3,7 +3,7 @@
 ### personal
 [[README|Home]]  
 [[My Life|Journal]]  
-[[Nursery|Garden]]  
+[[export/nursery/index.html|Garden]]  
 [[Sculpture]]  
 [[Wicked Problems]]  
 [[Javascript ideas]]  
