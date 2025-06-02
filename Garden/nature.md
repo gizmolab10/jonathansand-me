@@ -25,8 +25,7 @@ My garden changes throughout each year and year by year. Here are a few establis
 ## Black Bamboo
 The tallest stalk is over six feet high and about three inches in diameter, growing about one foot a day! Piercing force. Luscious pale purple pink.
 ---
-![[export/nature/Images/garden/magnolia.jpg]]
-Magnolia magnifolia
+![[magnolia.jpg]]Magnolia magnifolia
 ---
 ## Magnolia magnifolia
 The leaves and flowers are over a foot in size. The seedpod is yellow during the bloom and purple with orange seeds when ripe.
